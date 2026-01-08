@@ -1,0 +1,26 @@
+name: ServerDiscordStatus
+version: '${version}'
+main: com.sds.serverdiscord.Main
+api-version: '1.21'
+author: Calladius
+description: Интеграция Discord для сервера Minecraft с обновлениями статуса и синхронизацией чата
+
+softdepend:
+  - PlaceholderAPI
+  - Geyser-Spigot
+
+commands:
+  serverdiscordstatus:
+    description: Управление ServerDiscordStatus
+    usage: /serverdiscordstatus <reload|status|help>
+    aliases:
+      - sds
+
+permissions:
+  serverdiscordstatus.reload:
+    description: Позволяет перезагрузить конфигурацию плагина
+    default: op
+
+  serverdiscordstatus.status:
+    description: Разрешение на обновление статуса в Discord
+    default: op
