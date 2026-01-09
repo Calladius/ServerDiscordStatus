@@ -1,6 +1,6 @@
 # 🎮 ServerDiscordStatus
 
-![ServerDiscordStatus](https://img.shields.io/badge/Status-Active-green) ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.8-brightgreen) ![Java](https://img.shields.io/badge/Java-21-blue) [![Discord](https://img.shields.io/badge/Discord-596398007621124107-7289DA?logo=discord&logoColor=white)](https://discord.com/users/596398007621124107)
+![ServerDiscordStatus](https://img.shields.io/badge/Status-Active-green) ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.8-brightgreen) ![Java](https://img.shields.io/badge/Java-21-blue) [![Discord](https://img.shields.io/badge/Discord-MrERROR-7289DA?logo=discord&logoColor=white)](https://discord.com/users/596398007621124107)
 
 **ServerDiscordStatus** — плагин для **Minecraft Paper 1.21.8**, который интегрирует сервер с **Discord**:
 
